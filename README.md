@@ -146,3 +146,8 @@ int main()
     return 0;
 }
 ```
+
+## Credits
+Feel free to contact me with any questions!
+
+You can reach me at <nzsolt222@gmail.com>.
